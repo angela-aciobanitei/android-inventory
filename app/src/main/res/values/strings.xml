@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <!-- Title text for empty_storagempty view, which describes empty_storagempty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">The inventory is empty.</string>
+
+    <!-- Subtitle text for empty_storagempty view that prompts the user to add a product [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Let\'s add a product!</string>
+
+    <!-- Title for the activity to add a new product [CHAR LIMIT=20] -->
+    <string name="details_activity_title_new_item">Add New Item</string>
+
+    <!-- Title for the activity to edit an existing pet [CHAR LIMIT=20] -->
+    <string name="details_activity_title_edit_item">Edit Item</string>
+
+    <!-- Label for overflow menu option that inserts fake inventory data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all inventory data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Items</string>
+
+    <!-- Label for editor menu option to save product[CHAR LIMIT=20] -->
+    <string name="action_save">Save Item</string>
+
+    <!-- Label for editor menu option to order product[CHAR LIMIT=20] -->
+    <string name="action_order">Order Item</string>
+
+    <!-- Label for editor overflow menu option that deletes the current item [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete Item</string>
+
+    <!-- Label for product name field in the editor[CHAR LIMIT=30] -->
+    <string name="product_name">Name</string>
+
+    <!-- Text hint for product name field in the editor [CHAR LIMIT=30] -->
+    <string name="product_name_hint">Product Name</string>
+
+    <!-- Label for product quantity field in the editor[CHAR LIMIT=30] -->
+    <string name="product_quantity">Quantity</string>
+
+    <!-- Label for product price field in the editor[CHAR LIMIT=30] -->
+    <string name="product_price">Price</string>
+
+    <!-- Text hint for product price field in the editor [CHAR LIMIT=30] -->
+    <string name="product_price_hint">Price</string>
+
+    <!-- Label for product price units in the editor[CHAR LIMIT=30] -->
+    <string name="price_units">$</string>
+
+    <!-- Label for supplier name field in the editor[CHAR LIMIT=30] -->
+    <string name="supplier_name">Supplier</string>
+
+    <!-- Text hint for supplier name field in the editor [CHAR LIMIT=30] -->
+    <string name="supplier_name_hint">Name</string>
+
+    <!-- Label for supplier email field in the editor[CHAR LIMIT=30] -->
+    <string name="supplier_email">Email</string>
+
+    <!-- Text hint for supplier email field in the editor [CHAR LIMIT=30] -->
+    <string name="supplier_email_hint">Supplier Email</string>
+
+    <!-- Label for supplier phone field in the editor[CHAR LIMIT=30] -->
+    <string name="supplier_phone">Phone</string>
+
+    <!-- Text hint for supplier phone field in the editor [CHAR LIMIT=30] -->
+    <string name="supplier_phone_hint">Supplier Phone</string>
+
+    <string name="sale_success">The sale was a success.</string>
+    <string name="sale_failed">The sale has failed.</string>
+
+    <string name="app_bar_title_add_product">Add a Product</string>
+    <string name="app_bar_title_edit_product">Edit Product</string>
+    <string name="choose_image">ADD IMAGE</string>
+    <string name="successful_sale">The sale was successful.</string>
+    <string name="product_not_available">Product not available!</string>
+    <string name="delete_all_dialog_message">Do you want to delete all products?</string>
+    <string name="name_tag">product name</string>
+    <string name="price_tag">price</string>
+    <string name="quantity_tag">quantity</string>
+    <string name="supplier_tag">supplier</string>
+    <string name="email_tag">email</string>
+    <string name="phone_tag">phone</string>
+    <string name="unsaved_changes_dialog_message">Discard your changes and keep editing?</string>
+    <string name="unsaved_changes_dialog_pos_btn">Discard</string>
+    <string name="unsaved_changes_dialog_neg_btn">Keep editing</string>
+    <string name="delete_confirmation_dialog_message">Delete the current product?</string>
+    <string name="delete_confirmation_dialog_pos_btn">Yes</string>
+    <string name="delete_confirmation_dialog_neg_btn">No</string>
+    <string name="order_confirmation_dialog_message">Place order by email or by phone?</string>
+    <string name="order_confirmation_dialog_pos_btn">Email</string>
+    <string name="order_confirmation_dialog_neg_btn">Phone</string>
+    <string name="email_intent_extra_subject">Place order</string>
+    <string name="email_intent_extra_message">Order delivery for the following product:</string>
+
+
+</resources>
