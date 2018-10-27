@@ -1,5 +1,5 @@
 # Android Basics Nanodegree by Google | Udacity: Inventory App
-This app allows a store to keep track of its inventory of products. The app stores information about price, quantity available, supplier, and a picture of the product, using a SQLite database. 
+This app allows a store to keep track of its inventory of products. It stores information about price, quantity available, supplier, and a picture of the product, using a SQLite database. 
 
 
 <img src="screenshot-inventory1.png" width="250"/> <img src="screenshot-inventory2.png" width="250"/> <img src="screenshot-inventory3.png" width="250"/>
